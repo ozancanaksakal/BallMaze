@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56e8c0e3d73e0504794699249e3400a3, type: 3}
+  m_Name: LevelSOList
+  m_EditorClassIdentifier: 
+  list:
+  - levelName: Level 1
+    sprite: {fileID: 21300000, guid: 8e4449fedf5825248969ad9c3f7a4c75, type: 3}
+    scene: 1
+    maxMoveNumber: 1
+  - levelName: Level 2
+    sprite: {fileID: 21300000, guid: 58cb68c1be4547e41bae3fb2e2088172, type: 3}
+    scene: 2
+    maxMoveNumber: 5
+  - levelName: Level 3
+    sprite: {fileID: 21300000, guid: 64c18413f572440479c6196d0c9b48e9, type: 3}
+    scene: 3
+    maxMoveNumber: 8
+  - levelName: Level 4
+    sprite: {fileID: 21300000, guid: 5260579e58422a74680e6845cfb75054, type: 3}
+    scene: 4
+    maxMoveNumber: 7
+  - levelName: Level 5
+    sprite: {fileID: 21300000, guid: a447148401b624745be7054e88801191, type: 3}
+    scene: 5
+    maxMoveNumber: 12
+  - levelName: Level 6
+    sprite: {fileID: 21300000, guid: 53bec6f8f9195794e9d8d30826008259, type: 3}
+    scene: 6
+    maxMoveNumber: 6
+  - levelName: Level 7
+    sprite: {fileID: 21300000, guid: 893d0a97cd005f244a122b7c3cd3483e, type: 3}
+    scene: 7
+    maxMoveNumber: 10
+  - levelName: Level 8
+    sprite: {fileID: 21300000, guid: 19050a5ba01586646810e6c58c01df60, type: 3}
+    scene: 8
+    maxMoveNumber: 10
+  - levelName: Level 9
+    sprite: {fileID: 21300000, guid: 8be836bd7c374ae438a1adc89c86b0da, type: 3}
+    scene: 9
+    maxMoveNumber: 17
